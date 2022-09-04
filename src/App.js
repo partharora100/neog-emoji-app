@@ -11,7 +11,11 @@ export default function App(event) {
     "🥶": "cold face",
     "😨": "fearful face",
     "💓": "beating heart",
-    "💩": "poop"
+    "💩": "poop",
+    "🎵": "music",
+    "🕺🏼": "dance",
+    "🎤": "mic",
+    "🥁": "drum"
   };
 
   const emojiArray = Object.keys(emojiObject);
